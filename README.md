@@ -1,4 +1,4 @@
-# Kafka-Real-Time-Stock-Market-Data-Engineering-Project
+# AWS-Kafka-Real-Time-Stock-Market-Data-Engineering-Project
 
 ## Introduction 
 This project is an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka and AWS.
